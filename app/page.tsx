@@ -101,9 +101,9 @@ export default function UpsellPage() {
           </div>
 
           <div className="bg-red-900 border-4 border-red-500 p-6 rounded-lg">
-            <p className="text-lg md:text-xl font-bold text-center">
-              ⚠️ ADVERTENCIA: Si rechazas esta oferta, NUNCA más verás este precio. El Protocolo Íntimo volverá a su
-              precio normal de $197.
+            <p className="text-center text-xl font-bold">
+              ⚠️ ADVERTENCIA: Si rechazas esta oferta, NUNCA más verás este precio. El Protocolo Íntimo volverá a $197
+              PARA SIEMPRE.
             </p>
           </div>
         </div>
@@ -130,7 +130,7 @@ export default function UpsellPage() {
           </div>
 
           <div className="bg-yellow-400 text-gray-900 p-6 rounded-lg">
-            <p className="text-lg md:text-xl font-bold text-center">
+            <p className="text-center text-lg font-bold">
               ¿De qué sirve recuperarla si la relación se siente vacía y sin pasión?
             </p>
           </div>
@@ -147,9 +147,9 @@ export default function UpsellPage() {
 
           <div className="mb-12 flex justify-center">
             <img
-              src="https://comprarplanseguro.shop/wp-content/uploads/2025/10/u1FvZg6SUmiCNr2UUqFfg.webp"
+              src="https://comprarplanseguro.shop/wp-content/uploads/2025/10/Generated-Image-October-09_-2025-9_23PM.webp"
               alt="Protocolo de Reconexión Íntima"
-              className="rounded-lg shadow-2xl max-w-full h-auto"
+              className="rounded-lg shadow-2xl max-w-full h-auto object-contain"
             />
           </div>
 
